@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my resume: [Yuxin_Resume](https://github.com/YuxinWang2020/YuxinWang2020/blob/468e43e12c207065f07d0c0416ab1e4d6313a8b1/Yuxin_Resume.pdf)
+
 <!--
 **YuxinWang2020/YuxinWang2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
